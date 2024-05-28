@@ -6,7 +6,8 @@ This Python project allows you to download YouTube videos by providing their URL
 
 ```
 yt-downloader/
-├── youtube_downloader.py
+├── youtube_video.py
+├── youtube_audio.py
 ├── README.md
 └── requirements.txt
 ```
@@ -42,7 +43,7 @@ yt-downloader/
 1. **Run the script:**
 
     ```bash
-    python youtube_downloader.py
+    python youtube_video.py
     ```
 
 2. **Enter the URL of the YouTube video and the output path when prompted.**
@@ -57,7 +58,7 @@ yt-downloader/
 ## Example
 
 ```bash
-python youtube_downloader.py
+python youtube_video.py
 ```
 
 Output:
