@@ -40,28 +40,26 @@ yt-downloader/
 
 ## Usage
 
-1. **Run the script:**
-
-For videos:
+1. **Run the script for downloading videos:**
 
     ```bash
     python youtube_video.py
     ```
 
-For audio:
+2. **Run the script for downloading audio:**
 
     ```bash
     python youtube_audio.py
-    ```
 
-2. **Enter the URL of the YouTube video and the output path when prompted.**
+
+3. **Enter the URL of the YouTube video and the output path when prompted.**
 
     ```plaintext
     Enter the URL of the YouTube video: https://www.youtube.com/watch?v=example
     Enter the output path (leave blank for current directory): /path/to/save
     ```
 
-3. **The video will be downloaded to the specified path.**
+4. **The video will be downloaded to the specified path.**
 
 ## Example
 
