@@ -43,11 +43,13 @@ yt-downloader/
 1. **Run the script:**
 
 For videos:
+
     ```bash
     python youtube_video.py
     ```
 
 For audio:
+
     ```bash
     python youtube_audio.py
     ```
